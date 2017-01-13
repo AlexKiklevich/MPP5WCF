@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\sasha\documents\visual studio 2015\projects\calculationdll\calculationdll\source.cpp(21): warning C4297: Divide: ожидается, что функция не будет выдавать исключения, но она это делает
+  c:\users\sasha\documents\visual studio 2015\projects\calculationdll\calculationdll\source.cpp(21): note: Функция типа extern "C", указан параметр /EHc
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CalculationDll\Debug\CalculationDll.lib ш юс·хъЄ C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CalculationDll\Debug\CalculationDll.exp
+  CalculationDll.vcxproj -> C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CalculationDll\Debug\CalculationDll.dll
+  CalculationDll.vcxproj -> C:\Users\Sasha\Documents\Visual Studio 2015\Projects\CalculationDll\Debug\CalculationDll.pdb (Full PDB)

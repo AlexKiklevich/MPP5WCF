@@ -1,0 +1,6 @@
+LIBRARY "CalculationDll"
+EXPORTS
+Add
+Substract
+Multiply
+Divide

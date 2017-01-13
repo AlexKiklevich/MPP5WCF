@@ -1,0 +1,7 @@
+c:\users\sasha\documents\visual studio 2015\Projects\WcfClient\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\WcfClient\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\WcfClient\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\WcfClient\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\WcfClient\WcfClient\obj\Debug\WcfClient.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\WcfClient\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\WcfClient\WcfClient\obj\Debug\WcfClient.pdb

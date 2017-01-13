@@ -1,0 +1,10 @@
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ServiceLib\bin\Debug\ServiceLib.dll
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ServiceLib\bin\Debug\ServiceLib.pdb
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ServiceLib\obj\Debug\ServiceLib.dll
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ServiceLib\obj\Debug\ServiceLib.pdb
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ServiceLib\obj\Debug\ServiceLib.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ServiceLib\bin\Debug\ServiceLib.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ServiceLib\bin\Debug\ServiceLib.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ServiceLib\obj\Debug\ServiceLib.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ServiceLib\obj\Debug\ServiceLib.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ServiceLib\obj\Debug\ServiceLib.pdb

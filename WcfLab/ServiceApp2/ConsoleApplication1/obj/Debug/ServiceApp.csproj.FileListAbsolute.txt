@@ -1,0 +1,16 @@
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ConsoleApplication1\bin\Debug\ServiceLib.dll
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ConsoleApplication1\bin\Debug\ServiceLib.pdb
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ConsoleApplication1\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Учеба\СПП\CalcWCF\ServiceApp2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ConsoleApplication1\bin\Debug\ServiceLib.dll
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ConsoleApplication1\bin\Debug\ServiceLib.pdb
+C:\Users\Sasha\Documents\Visual Studio 2015\Projects\WcfLab\ServiceApp2\ConsoleApplication1\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
